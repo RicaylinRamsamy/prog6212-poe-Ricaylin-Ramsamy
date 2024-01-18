@@ -11,3 +11,5 @@
 
 ## Libraries Used
 - I used CanvasJS to show a graph
+
+The manual can be found in `manual.pdf`
