@@ -12,4 +12,4 @@
 ## Libraries Used
 - I used CanvasJS to show a graph
 
-The manual can be found in `manual.pdf`
+The manual can be found in `User Manual Study Tracker.pdf`
